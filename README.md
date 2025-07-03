@@ -4,12 +4,6 @@ This repository contains the certificate I received for completing a one-month i
 
 ---
 
-## 📜 Certificate
-
-- 📄 [View Certificate] (https://github.com/SanthiyaBaskar/Full-Stack-Web-Development/blob/main/01_Full_Stack_Web_Development.pdf.pdf)
-
----
-
 ## 🧠 Skills & Technologies Covered
 
 During this internship, I explored and practiced:
